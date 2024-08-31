@@ -1,0 +1,8 @@
+streamlit
+pandas 
+numpy
+altair
+requests
+bs4
+tensorflow
+KERAS
